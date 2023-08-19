@@ -4,5 +4,5 @@ Links and Resources which gets super important needed to be preserved so needed 
 
 |                |Links                          |Notes                         |
 |----------------|-------------------------------|-----------------------------|
-|Install postgreSQL in Ubuntu OS|[Instalation steps](https://www.hostinger.in/tutorials/how-to-install-postgresql-on-ubuntu/)|Database Technology, PostgreSQL           |
+|Install postgreSQL in Ubuntu OS|[Installation steps](https://www.hostinger.in/tutorials/how-to-install-postgresql-on-ubuntu/)|Database Technology, PostgreSQL           |
 |Sample|`'Isn't this fun?'`            |'Isn't this boring?'            |
